@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_25.0.4.v20260826-0822/jre" version="25.0.4.1"/>
+    <libraryInfo home="/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_25.0.4.v20260826-0822" version="25.0.4.1">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/usr/lib/jvm/java-21-openjdk" version="21.0.12.1"/>
+    <libraryInfo home="/home/salas/.local/share/mise/installs/java/temurin-17.0.20+101" version="17.0.20.1"/>
+    <libraryInfo home="/home/salas/.local/share/mise/installs/java/temurin-21.0.12+101.0.LTS" version="21.0.12.1"/>
+    <libraryInfo home="/home/salas/.local/share/mise/installs/java/21.0.2" version="21.0.2"/>
+</libraryInfos>

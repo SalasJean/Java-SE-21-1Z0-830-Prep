@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_25.0.4.v20260826-0822/jre" stamp="1791008232068"/>
+    <entry loc="/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_25.0.4.v20260826-0822" stamp="1791008231467"/>
+    <entry loc="/usr/lib/jvm/java-21-openjdk" stamp="1791002871333"/>
+    <entry loc="/home/salas/.local/share/mise/installs/java/temurin-17.0.20+101" stamp="1791001180870"/>
+    <entry loc="/home/salas/.local/share/mise/installs/java/temurin-21.0.12+101.0.LTS" stamp="1791001150574"/>
+    <entry loc="/home/salas/.local/share/mise/installs/java/21.0.2" stamp="1791001742911"/>
+</dirs>
